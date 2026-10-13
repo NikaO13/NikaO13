@@ -8,7 +8,7 @@
 -  **Ural Federal University**
 -  Сейчас изучаю: **Python, ML, Data Science и Алгоритмы**
 -  Пройденные курсы:
-  - **Nand2Tetris** (Building a Modern Computer from First Principles: от компьютерной архитектуры до ОС и Jack)
+  - **Nand2Tetris** (От компьютерной архитектуры и Nand`ов до ОС и Jack)
   - **Яндекс** — «Ассоциированные программы: Frontend-разработчик»
 ---
 
@@ -39,9 +39,11 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| 🎮 **[RhythmGame](https://github.com/NikaO13/RhythmGame)** | Ритм-игра / Игра на Unity с синхронизацией аудио | Unity, C# |
+|**[RhythmGame](https://github.com/NikaO13/RhythmGame)** | Ритм-игра / Игра на Unity с синхронизацией аудио | Unity, C# |
+|**[Telegram Mini App](https://github.com/Quaxww/Quaxww.github.io)** |Решение для автоматизации клиентских заказов| C#, SQLite | 
+|**[Анонимизатор данных](https://github.com/Patrtick/ProjectPractycum)** | Инструмент для синтетической генерации и анонимизации данных | Python, FastAPI |
 
-### 📊 GitHub Статистика
+### GitHub Статистика
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikaO13&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
