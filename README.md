@@ -1,5 +1,4 @@
-# Heeey
-
+# Привет! Я Ника 👋
 <p align="center">
   <img src="./animation.svg" alt="Animated Profile Banner" />
 </p>
