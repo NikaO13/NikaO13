@@ -7,7 +7,7 @@
 -  **Прикладная информатика**
 -  **Ural Federal University**
 -  Сейчас изучаю: **Python, ML, Data Science и Алгоритмы**
--  Пройденные курсы:
+-  **Пройденные курсы**:
 <details>
 <summary><b>🔥 Nand2Tetris (Computer Systems from NAND to Tetris)</b> — <i>Нажмите, чтобы развернуть</i></summary>
 
